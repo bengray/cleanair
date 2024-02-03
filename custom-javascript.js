@@ -381,8 +381,6 @@ if ($(".meta-item a:contains('es')").length == 0 &&
 	$(".button .alt .addquotelistbutton_prodpage .product_type_variable .enabled").removeClass("enabled");
     }
 
-
-
     // Rental product options
     if (
       $(".meta-item a:contains('rental-only')").length == 0 &&
